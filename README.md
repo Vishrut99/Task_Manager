@@ -1,8 +1,5 @@
-Sure! Here's a clean, engaging, and professional `README.md` file **without any reference to where you got the project**, and filled with useful structure and emojis:
 
 ---
-
-````markdown
 # ✅ Task Manager Web Application
 
 A full-featured Spring Boot web application to manage daily tasks efficiently — create, update, delete, and track them all in one place! 🚀
